@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 pyomo = "^6.7.1"
+pandas = "^2.2.2"
+python-dotenv = "^1.0.1"
+gurobipy = "^11.0.1"
 
 
 [build-system]
